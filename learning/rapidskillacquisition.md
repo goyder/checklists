@@ -23,7 +23,7 @@ Most of that is pretty clear, but some important items to clarify:
   (The caveat is that "RSA" is focused on the first 20 hours: therefore new skills will be deferred up to 20 hours at most, in theory.)
 * *Define your target performance level* - create a simple sentence (or a few, maybe) that define what "good enough" looks like. This is similar to setting a SMART goal. "A problem well stated is a problem half solved."
 * *Deconstruct the skill into subskills* - consider that a skill being approached is actually more likely a bundle of smaller subskills. You can then define which subskills are the most important and focus energies there.
-* *Create fast feedback loops* - coaches and mentors are great sources of eedback. Capture devices or specific training tools can be of use.
+* *Create fast feedback loops* - coaches and mentors are great sources of feedback. Capture devices or specific training tools can also be of use.
 * *Emphasise quantity and speed* - like the parable of the ceramics teacher, "in early-stage practice, quantity and speed trump absolute quality."
 
 ## Ten principles of effective learning
