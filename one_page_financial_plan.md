@@ -1,6 +1,6 @@
 # The One Page Financial Plan
 
-[The one Page Financial Plan](https://www.amazon.com.au/One-Page-Financial-Plan-Simple-Smart/dp/1591847559) is a book by Carl Richards. 
+[The One Page Financial Plan](https://www.amazon.com.au/One-Page-Financial-Plan-Simple-Smart/dp/1591847559) is a book by Carl Richards. 
 
 It is a gentle introduction to financial planning, with an emphasis on understanding and setting reasonable goals.
 
